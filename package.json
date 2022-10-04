@@ -1,0 +1,10 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "0.1.0",
+  "description": "Rock, paper, scissors terminal game",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
